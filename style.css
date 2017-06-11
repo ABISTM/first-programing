@@ -1,0 +1,101 @@
+/* CSS Document */
+body {
+	font-family:  arial;
+	font-size: 12px;
+	color: #575757;
+	background-color: #fff;
+	margin: 3px auto;
+}
+a {
+	color: #333;
+}
+a:visited {
+	color: #333;
+}
+div{
+	padding: 2px;
+}
+a.white{
+	color:#fff;
+}
+a.white:visited{
+	color:#fff;
+}
+img.ad {
+	width: 160px;
+	height: 35px;
+	border: none;
+}
+img.b {
+	width: 5px;
+	height: 5px;
+	border: none;
+}
+img {
+	max-width:100%;
+}
+q{
+     display:none;
+}
+div.header, div.footer {
+	font-size: 12px; color: #fff;
+	text-align: left;
+	border: 1px solid #ccc;
+	background: #2D2D2D repeat-x top;
+	margin-bottom: 1px;
+}
+div.header a {
+       color: #ff0000;
+        text-decoration: none;
+}
+div.body {
+	padding: 3px;
+	background-color: #fff;
+	border-bottom: 1px dotted #333;
+}
+div.up {
+	padding: 2px;
+	border: 1px solid #ccc;
+	background: #eee repeat-x top;
+	margin-bottom: 1px;
+}
+div.down {
+	padding: 3px;
+	background-color: #fff;
+	border-bottom: 1px dotted #333;
+}
+div.adv {
+	padding: 3px;
+	background-color: #fff;
+	border-bottom: 1px dotted #333;
+}
+div.ads {
+	margin: 0px;
+	padding: 0px;
+}
+div.bar {
+	margin: 0px 0px 1px 0px;
+	padding: 0px 0px 0px 3px;
+	border-left: 3px solid #333;
+}
+span.g {
+	color: #999999;
+}
+.dl-button{
+       background:url(/icon/music.png) no-repeat 1px center #fff
+}
+.dl-button{
+      color:#333;
+      padding:0 0 0 18px
+}
+.twit-button{
+      background:url(/icon/twit.png) no-repeat 1px center #fff
+   }
+.fb-button{
+      background:url(/icon/fb.png) no-repeat 1px center #fff
+   }
+.twit-button,.fb-button{
+     color:#333;
+     padding:0 0 0 20px
+}
+/*www.getwapi.com*/
